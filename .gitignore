@@ -4,3 +4,6 @@ venv/
 build/
 dist/
 .eggs/
+fiscal_tools.egg-info
+.pytest_cache/
+.mypy_cache/
